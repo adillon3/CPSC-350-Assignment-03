@@ -1,0 +1,12 @@
+/*******************************
+ * Andrew Dillon
+ * 2382400
+ * CPSC 350
+ * Assignment 03
+ *******************************/
+
+BONUS FEATURE:
+Outputs all mismatched delimiters rather than just one
+
+Help with overloading << operator
+https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=vs-2019
